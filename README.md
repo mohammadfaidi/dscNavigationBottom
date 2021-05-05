@@ -2,6 +2,21 @@
 
 A new Flutter project.
 
+
+
+help task :
+
+
+
+https://codewithandrea.com/articles/bottom-bar-navigation-with-fab/
+
+https://github.com/bizz84/bottom_bar_fab_flutter
+
+https://codewithandrea.com/articles/bottom-bar-navigation-with-fab/
+
+https://medium.com/codechai/flutter-7-bottom-navigation-with-floating-button-9190648372fd
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
